@@ -7,7 +7,7 @@ We will explore Polars’ expressive and intuitive API and demonstrate how to pe
 * loading and ingesting diverse, multi-file datasets,
 * cleaning, transforming, and reshaping your data,
 * performing insightful aggregations, filtering, and querying,
-*preparing data for effective visualization,
+* preparing data for effective visualization,
 * and running these operations efficiently.
 * You'll also get hands-on experience with Polars expressions — a key feature for unlocking its performance and writing concise, powerful code.
 
