@@ -12,6 +12,7 @@ We will explore Polars’ expressive and intuitive API and demonstrate how to pe
 
 You'll also get hands-on experience with Polars expressions — a key feature for unlocking its performance and writing concise, powerful code.
 
+
 Start with [Dive_into_Polars_PyConPl2025](Dive_into_Polars_PyConPl2025.ipynb)
 
 
