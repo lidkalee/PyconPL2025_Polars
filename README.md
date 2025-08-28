@@ -16,6 +16,6 @@ You'll also get hands-on experience with Polars expressions — a key feature fo
 Start with [Dive_into_Polars_PyConPl2025](Dive_into_Polars_PyConPl2025.ipynb)
 
 
-Polars <a target="_blank" href="https://colab.research.google.com/drive/1CHmubG8oIta1vWP-iwCUuWvur3dLQ3AR?usp=sharing">
+Polars <a target="_blank" href="https://colab.research.google.com/github/lidkalee/PyconPL2025_Polars/blob/main/Dive_into_Polars_PyConPl2025.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
