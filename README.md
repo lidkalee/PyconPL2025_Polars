@@ -19,3 +19,5 @@ Start with [Dive_into_Polars_PyConPl2025](Dive_into_Polars_PyConPl2025.ipynb)
 Polars <a target="_blank" href="https://colab.research.google.com/github/lidkalee/PyconPL2025_Polars/blob/main/Dive_into_Polars_PyConPl2025.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+Read more about Balonikotron device used as an example here [Novel Robotic Balloon-Based Device for Wrist-Extension Therapy of Hemiparesis Stroke Patients](https://www.mdpi.com/1424-8220/25/5/1360)
